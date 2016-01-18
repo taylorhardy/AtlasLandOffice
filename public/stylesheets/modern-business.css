@@ -91,16 +91,6 @@ footer {
         height: 70%;
     }
 }
-.carousel{
-    width: 50%;
-}
-.carousel-inner{
-
-    background-position: center center;
-    background-repeat: no-repeat;
-    height:200px;
-}
-
-.carousel-caption{
-    top:1em;
+.logo{
+    background-image: url('../images/atlaslogo2.jpg');
 }
