@@ -91,6 +91,12 @@ footer {
         height: 70%;
     }
 }
-.logo{
-    background-image: url('../images/atlaslogo2.jpg');
+.description{
+    margin-top: 150px;
+
+}
+.panel-default>.panel-heading{
+    background-color: #26ADE4;
+    color: #ffffff;
+    min-height: 80px;
 }
